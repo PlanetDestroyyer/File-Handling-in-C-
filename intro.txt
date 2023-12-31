@@ -1,0 +1,1 @@
+In file handling the user is reading , writing or appending file
